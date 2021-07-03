@@ -1,5 +1,4 @@
-
-@@ -0,0 +1,7146 @@
+#@@ -0,0 +1,7146 @@
 CAN_NOTIFY = True
 import datetime
 import json
